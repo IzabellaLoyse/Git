@@ -1,0 +1,17 @@
+/* HTML */
+
+html{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* H1,H2,H3,H4,H5,H6 */
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* BODY OF PAGE */
+body{
+    background-color: #f0f0f5;
+	text-decoration: none;
+	-webkit-font-smoothing:antialiased;
+}
