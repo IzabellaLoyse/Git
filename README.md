@@ -1,8 +1,10 @@
 
-# Git
-<<<<<<< HEAD
-Testando o Git e Github
 
-=======
-Testando o Git e Github através da criação de um Site.
->>>>>>> b2801382d1705add6576470676bcc991718840e0
+<h4 align="center"> 
+	🚧  Git & Github 🚀 Em construção...  🚧
+</h4>
+<h1 align="center">Git & Github</h1>
+
+<p align="center">Página Web simples voltada para aprendizado do Git e Github</p>
+
+
