@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=7159c1&style=for-the-badge&logo=">
 <a href="https://github.com/IzabellaLoyse/Git.git/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/IzabellaLoyse/Git.git?logo=github&style=for-the-badge"></a>
  <a href="https://github.com/IzabellaLoyse/Git.git"><img alt="GitHub license" src="https://img.shields.io/github/license/IzabellaLoyse/Git.git?label=LICENSE%20MIT&style=for-the-badge"></a>
- <img src="">
+ 
 </p>
 <br>
 
