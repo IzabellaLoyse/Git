@@ -1,7 +1,7 @@
 
 <h1 align="center">🔗GiT Enterprise</h1>
 
-<p align="center">Página Web da empresa GiT Enterprise </p>
+<p align="center">GiT Enterprise company website </p>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Site&message=GitGithub&color=000000&style=for-the-badge&logo=github">
  <a href="https://github.com/IzabellaLoyse/Git.git"><img alt="GitHub license" src="https://img.shields.io/github/license/IzabellaLoyse/Git.git?label=LICENSE%20MIT&style=for-the-badge"></a>
@@ -12,31 +12,31 @@
 </p>
 <br>
 
-<h4 align="center"> 🔗GiT Enterprise • Finalizado •</h4>
+<h4 align="center"> 🔗GiT Enterprise • Finished•</h4>
 
 <br>
 <p align="center">
- <a href="#sobre">Sobre o projeto</a> •
- <a href="#aplicacao"> Demonstração da aplicação</a> • 
- <a href="#requesitos"> Pré-requesitos</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
-  <a href="#autor">Autor</a>• 
- <a href="#licenca">Licença</a> • 
- <a href="#versoes">Versões do README</a> • 
+ <a href="#sobre">About the project</a> •
+ <a href="#aplicacao"> Application Demo</a> • 
+ <a href="#requesitos"> Requeriments</a> • 
+ <a href="#tecnologias">Technologies</a> • 
+  <a href="#autor">Author</a>• 
+ <a href="#licenca">License</a> • 
+ <a href="#versoes"> README versions</a> • 
 
 </p>
 
-<h2 id="sobre">💻  Sobre o projeto</h2>
+<h2 id="sobre">💻 About the project</h2>
 <p>
-  Site da GiT Enterprise, empresa dedicada ao desenvolvimento de aplicações para a Internet.
-  <br>
-  A elaboração e desenvolvimento do site faz parte dos projetos pessoais da desenvolvedora.
+  GiT Enterprise website, a company dedicated to the development of applications for the Internet.
+   <br>
+  The elaboration and development of the website is part of the developer's personal projects.
 </p>
 
 
-<h2 id="aplicacao">🖇️ Demonstração da aplicação</h2>
-<p>• Para visualizar e interagir com o Site, acesse </p>
-<strong> Site responsivo</strong>
+<h2 id="aplicacao">🖇️ Application Demo</h2>
+<p>• To view and interact with the Site, access <a href="https://git-azure.vercel.app/Index.html"> GiT Enterprise</a></p>
+<strong> responsive website</strong>
 
 <p align="center">
 <img src="./ASSETS/Enterprise.png" width="770">
@@ -44,42 +44,42 @@
 
 
 
-<h2  id="requesitos">💻 Pré-requesitos</h2>
+<h2  id="requesitos">💻 Requeriments</h2>
 <p>
-Antes de começar, você vai precisar ter instalado em sua máquina um editor de texto, 
-recomendado o Visual Estudio Code. Caso deseje poderá baixar o Sass diretamente 
-do site ou utilizar um Plugin no Visual Studio Code para a compilação.
+Before you begin, you will need to have a text editor installed on your machine,
+Visual Estudio Code is recommended. If you want you can download Sass directly
+site or use a Visual Studio Code Plugin for compilation.
 </p>
 
-<h2 id="tecnologias">  🛠 Tecnologias</h2>
+<h2 id="tecnologias">  🛠 Technologies</h2>
 <p>
-	As seguintes ferramentas foram utilizadas na construção do projeto:<br>
+	The following tools were used in the construction of the project:<br>
 ∙	<a href="#">Html</a> <br>
 ∙	<a href="#">CSS</a> <br>
 ∙	<a href="https://sass-lang.com/">Sass</a> <br>
 
 </p>
 
-<h2 id="autor">✨ Autor</h2>
+<h2 id="autor">✨ Author</h2>
 <p>
 <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/68293229?s=400&u=53bb8758c240bbb4bf029af8299d4c047e7a4288&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Izabella Loyse Cândido</b></sub> <br>
- Produzido e desenvolvido com amor por Izabella Loyse Cândido💙
- Entre em contato 📝 Te aguardo !
+ <sub> <b> Izabella Loyse Cândido </b> </sub> <br>
+  Produced and developed with love by Izabella Loyse Cândido💙
+  Get in touch 📝 I await you!
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-IzabellaLoyseCandido-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabella-loyse-candido//)](https://www.linkedin.com/in/izabella-loyse-candido/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-izabellaloyse13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izabellaloyse13@gmail.com)](mailto:izabellaloyse13@gmail.com)
 
-<h2 id="licenca" >📝 Licença</h2>
+<h2 id="licenca" >📝 License</h2>
 <p>
-Este projeto está sobe a licença <a href="https://github.com/IzabellaLoyse/Git/blob/master/
+This project is under license <a href="https://github.com/IzabellaLoyse/Git/blob/master/
 LICENSE">MIT</a>. 
 </p>
 
-<h2 id="versoes">Versões do README</h2>
+<h2 id="versoes"> README versions</h2>
 <p>
 <a href="https://github.com/IzabellaLoyse/Git/blob/master/README.md">Português 🇧🇷</a> | 
 <a href="https://github.com/IzabellaLoyse/Git/blob/master/README-en.md">English 🇺🇸</a>

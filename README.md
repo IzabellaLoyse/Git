@@ -35,7 +35,7 @@
 
 
 <h2 id="aplicacao">🖇️ Demonstração da aplicação</h2>
-<p>• Para visualizar e interagir com o Site, acesse </p>
+<p>• Para visualizar e interagir com o Site, acesse <a href="https://git-azure.vercel.app/Index.html"> GiT Enterprise</a></p>
 <strong> Site responsivo</strong>
 
 <p align="center">
