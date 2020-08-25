@@ -1,0 +1,113 @@
+/* BOX */
+.title{
+  @include FontText(700,3.5rem,Archivo);
+  border-bottom: 0.2rem solid $DarkGrey;
+  color:$DarkGrey;
+  margin:28rem auto;
+  text-align: center;
+   
+}
+
+.image{
+  width: 100%;
+  height: 55vh;
+  margin-top: -22rem;
+  padding-bottom: 1.3rem;
+  border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.container{
+  @include FlexH(center,column);
+  max-width: 100%;
+  margin-left: 1.1rem;
+  clear: both;
+  h1{
+    @extend .title;
+    height: 3.6rem;
+    
+  }
+}
+
+.box1{
+  @include FlexH(center,column);
+  img{
+    @extend .image;
+
+  }
+  p{
+    margin: 2rem;
+    line-height: 3.1rem;
+    font-size: 1.8rem;
+    padding: 1rem;
+    color: $ColorP;
+  }
+}
+
+.box2{
+  @include FlexH(center,column);
+  img{
+    @extend .image;
+  }
+  p{
+    margin: 2rem;
+    line-height: 3.1rem;
+    font-size: 1.8rem;
+    padding: 1rem;
+    color: $ColorP;
+  }
+    
+}
+
+.box3{
+  
+  @include FlexH(center,column);
+  
+  img{
+    @extend .image;
+  }
+  p{
+    margin: 2rem;
+    line-height: 3.1rem;
+    font-size: 1.8rem;
+    padding: 1rem;
+    color: $ColorP;
+  }
+}
+
+@media(min-width:1100px){
+
+  .image{
+    width: 1000px;
+    height: 400px;
+    
+  }
+
+  .box1{
+    p{
+      margin: 20px;
+      font-size: 18px;
+      line-height: 25px;
+      padding: 30px;
+      text-align: left;
+    }
+  }
+  .box2{
+    p{
+      margin: 20px;
+      font-size: 18px;
+      line-height: 25px;
+      padding: 30px;
+      text-align: left;
+    }
+  }
+  .box3{
+    p{
+      margin: 20px;
+      font-size: 18px;
+      line-height: 25px;
+      padding: 30px;
+      text-align: left;
+    }
+  }
+  
+}

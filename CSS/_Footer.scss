@@ -1,0 +1,13 @@
+/* FOOTER */
+ #footer{
+  @include FlexH(center,column);
+   background-color:$SecondaryColor;
+   max-width: 100%;
+   height: 60px;
+   margin-top: 3rem;
+
+   p{
+    color: $PrimaryColor;
+    @include FontText(700,1.8rem ,Archivo );
+   }
+ }

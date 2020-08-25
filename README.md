@@ -1,10 +1,7 @@
-<h1 align="center">
-<img alt="Git and Github" title="Git and Github" src="./ASSETS/Banner.png" height="300">
 
+<h1 align="center">🔗GiT Enterprise</h1>
 
-<h1 align="center">🔗Git & Github</h1>
-
-<p align="center">Página  Web simples voltada para o aprendizado do Git e Github</p>
+<p align="center">Página Web da empresa GiT Enterprise </p>
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Site&message=GitGithub&color=000000&style=for-the-badge&logo=github">
  <a href="https://github.com/IzabellaLoyse/Git.git"><img alt="GitHub license" src="https://img.shields.io/github/license/IzabellaLoyse/Git.git?label=LICENSE%20MIT&style=for-the-badge"></a>
@@ -15,12 +12,11 @@
 </p>
 <br>
 
-<h4 align="center">🚧  Git & Github 🔗Em construção..  🚧 👷</h4>
+<h4 align="center"> 🔗GiT Enterprise • Finalizado •</h4>
 
 <br>
 <p align="center">
  <a href="#sobre">Sobre o projeto</a> •
- <a href="#feature">Feature</a> • 
  <a href="#aplicacao"> Demonstração da aplicação</a> • 
  <a href="#requesitos"> Pré-requesitos</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
@@ -32,42 +28,36 @@
 
 <h2 id="sobre">💻  Sobre o projeto</h2>
 <p>
-O projeto tem como objetivo, o desenvolvimento de uma página Web utilizando HTML,CSS e 
-Bootstrap para o aprendizado do Git e Github.
+  Site da GiT Enterprise, empresa dedicada ao desenvolvimento de aplicações para a Internet.
+  <br>
+  A elaboração e desenvolvimento do site faz parte dos projetos pessoais da desenvolvedora.
 </p>
-
-<h2 id="feature">📌 Feature</h2>
-
-
-### 
-- [x] Criação da página  HTML 
-- [x] Implementação do Bootstrap
-- [x] Estilização da página com CSS
-- [x]  Criação do respositório
-- [ ] Implementação do JavaScript
 
 
 <h2 id="aplicacao">🖇️ Demonstração da aplicação</h2>
-<img alt="Git and Github" title="Git and Github" src="./ASSETS/screen.png" height="500">
-<br>
-<img alt="Git and Github" title="Git and Github" src="./ASSETS/screen2.png" height="500">
+<p>• Para visualizar e interagir com o Site, acesse </p>
+<strong> Site responsivo</strong>
+
+<p align="center">
+<img src="./ASSETS/Enterprise.png" width="770">
+<img src="./ASSETS/GiT Enterprise.png" width=770>
 
 
 
 <h2  id="requesitos">💻 Pré-requesitos</h2>
 <p>
 Antes de começar, você vai precisar ter instalado em sua máquina um editor de texto, 
-recomendado o Visual Estudio Code.
+recomendado o Visual Estudio Code. Caso deseje poderá baixar o Sass diretamente 
+do site ou utilizar um Plugin no Visual Studio Code para a compilação.
 </p>
 
 <h2 id="tecnologias">  🛠 Tecnologias</h2>
 <p>
-	As seguintes ferramentas foram usadas na construção do projeto:<br>
+	As seguintes ferramentas foram utilizadas na construção do projeto:<br>
 ∙	<a href="#">Html</a> <br>
 ∙	<a href="#">CSS</a> <br>
-∙	<a href="https://getbootstrap.com/">Bootstrap</a> <br>
-∙	<a href="https://git-scm.com/">Git</a> <br>
-∙	<a href="https://github.com/">Github</a> <br>
+∙	<a href="https://sass-lang.com/">Sass</a> <br>
+
 </p>
 
 <h2 id="autor">✨ Autor</h2>

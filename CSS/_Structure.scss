@@ -1,0 +1,42 @@
+/* STRUCTURE*/
+$PrimaryColor:#FFFFFF;
+$SecondaryColor:#000000;
+$BackgroundColorPage:#f0f0f5;
+$DarkGrey:#333333;
+$BackgroundHF:#010101;
+$ColorP:#1a1a1a;
+
+:root{
+  font-size: 60%;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+html,
+body{
+  height: 100vh;
+}
+
+
+body{
+  background-color:$PrimaryColor;
+text-decoration: none;
+-webkit-font-smoothing:antialiased;
+  
+}
+
+
+
+a{
+  text-decoration: none;
+}
+

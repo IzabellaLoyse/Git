@@ -1,0 +1,24 @@
+/* SLIDE */
+.box{
+  max-width: 100%;
+
+  h2{
+    @include FontText (700,4.5rem,Archivo);
+    color: $PrimaryColor;
+    text-align: center;
+    margin-top: -28rem;
+    padding-left: 2rem;
+  }
+
+  img{
+    width: 100%;
+    height: 75vh;
+  }
+
+  
+  
+
+
+
+
+}

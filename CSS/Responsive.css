@@ -1,0 +1,13 @@
+@media (min-width: 699px) {
+  :root {
+    font-size: 62.5%;
+    /* Todo 1rem vai ser relativo a 10px */
+  }
+}
+
+@media (min-width: 1100px) {
+  #image1 {
+    float: left;
+  }
+}
+/*# sourceMappingURL=Responsive.css.map */
